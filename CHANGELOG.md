@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.79.0-rc.15](https://github.com/pagopa/io-app/compare/2.79.0-rc.14...2.79.0-rc.15) (2024-12-19)
+
 ## [2.79.0-rc.14](https://github.com/pagopa/io-app/compare/2.79.0-rc.13...2.79.0-rc.14) (2024-12-18)
 
 ## [2.79.0-rc.13](https://github.com/pagopa/io-app/compare/2.79.0-rc.12...2.79.0-rc.13) (2024-12-17)
